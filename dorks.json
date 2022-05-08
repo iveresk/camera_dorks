@@ -1,0 +1,27 @@
+{
+  "Toshiba" : "intitle:”Toshiba Network Camera” user login",
+  "EvoCam" : "intitle:”EvoCam” inurl:”webcam.html”",
+  "AXISCam" : {
+    "first_tab": "intitle:”Live View / – AXIS ”",
+    "second_tab" : "intitle:”Live View / – AXIS 206M”",
+    "third_tab" : "intitle:”Live View / – AXIS 206W”",
+    "fourth_tab" : "intitle:”Live View / – AXIS 210?"
+  },
+  "Sony" : {
+    "first_tab": "intitle:”sony network camera snc-p",
+    "second_tab": "intitle:sony network camera snc-m1"
+  },
+  "Other" : {
+    "first_tab" : "inurl:”CgiStart?page=”",
+    "second_tab" : "inurl:/view.shtml",
+    "third_tab" : "intitle:”Live View / – AXIS",
+    "fourth_tab" : "inurl:view/view.shtml",
+    "fifth_tab" : "inurl:ViewerFrame?Mode=",
+    "sixth_tab" : "inurl:ViewerFrame?Mode=Refresh",
+    "seventh_tab" : "inurl:axis-cgi/jpg",
+    "eighth_tab" : "inurl:axis-cgi/mjpg (motion-JPEG) (disconnected)",
+    "ninth_tab" : "inurl:view/indexFrame.shtml",
+    "tenth_tab" : "inurl:view/index.shtml",
+    "eleventh_tab" : "inurl:view/view.shtml"
+  }
+}
