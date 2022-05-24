@@ -17,3 +17,5 @@ Example:
     "second_tab": "intitle:sony network camera snc-m1"
 }
 ```
+## Contact
+You are free to contact me via [Keybase](https://keybase.io/1veresk) for any details. 
